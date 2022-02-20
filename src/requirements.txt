@@ -1,0 +1,6 @@
+keyboard
+PyExecJS
+appdirs
+packaging
+pyparsing
+six
