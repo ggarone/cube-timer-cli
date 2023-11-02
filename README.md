@@ -6,14 +6,15 @@ Rubik's Cube Timer (command line interface)
 [pyTwistyScrambler](https://github.com/euphwes/pyTwistyScrambler) - Needed to generate scrambles
 
 ## Installation
+Clone the repository and then enter the repo directory. Then execute:
 
-	git clone 'https://github.com/Toory/cube-timer-cli'
-	cd cube-timer-cli/src/
-	svn export https://github.com/euphwes/pyTwistyScrambler/trunk/pyTwistyScrambler  # Download pyTwistyScrambler
+```shell
+	cd src
 	virtualenv env
 	source ./env/bin/activate
 	pip install -r requirements.txt #Download all dependencies needed
 	sudo python cubetimer.py
+``` 
 	
 Note that on Linux the script needs root permissions (required by the python module [keyboard](https://github.com/boppreh/keyboard))
 
