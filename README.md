@@ -3,7 +3,7 @@ Rubik's Cube Timer (command line interface)
 
 ## Dependencies
 
-[pyTwistyScrambler](https://github.com/euphwes/pyTwistyScrambler) - Needed to generate scrambles
+[pyTwistyScrambler](https://github.com/euphwes/pyTwistyScrambler) - Needed to generate scrambles (see requirements.txt)
 
 ## Installation
 Clone the repository and then enter the repo directory. Then execute:
