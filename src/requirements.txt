@@ -4,3 +4,4 @@ appdirs
 packaging
 pyparsing
 six
+pyTwistyScrambler
